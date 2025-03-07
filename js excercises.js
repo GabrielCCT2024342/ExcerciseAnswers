@@ -20,3 +20,9 @@ while(num<=10){
     console.log(num);
     num++;
 }
+//4
+if(num%2==0){
+    console.log("It is even")
+} else {
+    console.log(`The number ${num} is odd`)
+}
